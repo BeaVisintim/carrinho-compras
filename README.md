@@ -12,7 +12,7 @@
 </p>
 <h2>Resumo</h2>
 
-<h4></h4>
+<h4>Usei a função <ins>split()</ins> para separar partes de uma <ins>string</ins> usando um delimitador. Também entendi como pegar o que o usuário digita nos formulários usando a propriedade <ins>value</ins>. Além disso, vi como alterar o conteúdo de um elemento da página com <ins>innerHTML</ins>. Por fim, usei <ins>template strings</ins> para montar frases com variáveis de forma mais simples e organizada.</h4>
 
 ## 👨‍💻Tecnologias
 <div>
